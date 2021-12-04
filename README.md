@@ -1,6 +1,8 @@
 How to install:
 
-**OPTIONAL**:
+**OPTIONAL**
+
+
 a)you can replace ".env" file.
 b)and use your own key from:https://developer.accuweather.com/.
 
