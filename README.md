@@ -1,13 +1,14 @@
-How to install:
 
 **OPTIONAL**
 
 
-a)you can replace ".env" file.
+you can replace ".env" file.
 
 
-b)and use your own key from:https://developer.accuweather.com/.
+and use your own key from:https://developer.accuweather.com/.
 
+
+How to install:
 1. npm i
 2. npm start
 
