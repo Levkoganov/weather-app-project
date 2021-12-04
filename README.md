@@ -3,9 +3,9 @@
 
 
 you can replace ".env" file.
-
-
 and use your own key from:https://developer.accuweather.com/.
+
+
 
 
 How to install:
