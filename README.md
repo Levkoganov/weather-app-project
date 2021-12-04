@@ -1,4 +1,4 @@
-**How to install:
+**How to install**:
 1. npm i
 2. npm start
 
@@ -6,7 +6,7 @@ all done!
 
 
 
-***OPTIONAL*
+**OPTIONAL**
 
 
 you can replace ".env" file.
