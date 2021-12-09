@@ -12,4 +12,4 @@ all done!
 and use your own key from:https://developer.accuweather.com/.
 
 **.env example:**
-REACT_APP_API_KEY = "123test"
+REACT_APP_API_KEY = 123test
