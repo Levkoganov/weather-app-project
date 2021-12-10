@@ -20,7 +20,7 @@ function FavoriteGrid() {
   const handleDeleteFavorite = (cityName) => {
     swal({
       title: "Are you sure?",
-      text: "Click Ok to delete item",
+      text: 'Click "Delete" to delete the item',
       icon: "warning",
       buttons: ["Cancel", "Delete"],
       dangerMode: true,
