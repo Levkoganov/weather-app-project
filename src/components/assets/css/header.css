@@ -1,0 +1,22 @@
+.navLogo a {
+  margin-left: 30px;
+  text-decoration: none;
+  font-size: 25px;
+  color: rgb(0, 124, 155);
+  transition: 0.3s;
+}
+
+.logoSpan {
+  color: rgb(12, 10, 44);
+}
+
+.nav-bar-items a {
+  text-decoration: none;
+  font-size: 1.3rem;
+  color: rgb(70, 70, 70);
+}
+
+.nav-bar-items span {
+  border-left: 1px solid #000000;
+  margin: 0px 20px 0px 20px;
+}

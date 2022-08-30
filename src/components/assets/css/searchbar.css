@@ -1,0 +1,35 @@
+.form-section {
+  text-align: center;
+  box-sizing: border-box;
+}
+
+form input {
+  background-color: #e8f0feb4;
+  padding: 7px;
+
+  width: 90%;
+}
+
+form label {
+  color: rgba(31, 31, 31, 0.8);
+  margin-bottom: 5px;
+  padding: 0;
+}
+
+form button {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border: solid black 1px;
+  border-radius: 3px;
+  background-color: rgb(0, 140, 175);
+  color: white;
+  transition: 0.4s;
+  padding: 8px;
+  width: 10%;
+}
+
+form button:hover {
+  background-color: rgb(0, 100, 175);
+  color: bisque;
+}
